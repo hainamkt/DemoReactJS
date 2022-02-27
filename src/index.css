@@ -31,3 +31,9 @@ code {
   background-color: rgb(10, 10, 107);
   color: white;
 }
+
+/* Demo style Component */
+p{
+  color: rgb(206, 26, 65);
+  font-weight: 700;
+}
